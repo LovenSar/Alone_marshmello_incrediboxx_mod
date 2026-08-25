@@ -1,5 +1,7 @@
 # Alone (Marshmello ModBox Port)
 
+After downloading this package, compress it into a `.zip` archive and import it directly in the game. Open the game settings and select `Import Local Mod`.
+
 This is a port of the `Alone` ModBox package for iOS, Android, and desktop platforms. It contains the animations, images, audio, and bonus content required for the music loop.
 
 ## Package Information

@@ -1,0 +1,53 @@
+{
+  "name": "Alone",
+  "date": "2025-09-23",
+  "looptime": 6750,
+  "bpm": 142,
+  "totalframe": 322,
+  "bonusloopA": true,
+  "bonusendloopA": true,
+  "colors": [
+    "#09589B",
+    "#09589B",
+    "#09589B",
+    "#09589B",
+    "#09589B",
+    "#09589B"
+  ],
+  "animearray": [
+    { "name": "1_kickhit", "color": "#E70022", "uniqsnd": true },
+    { "name": "2_kick", "color": "#E70022", "uniqsnd": true },
+    { "name": "3_clap", "color": "#E70022", "uniqsnd": true },
+    { "name": "4_hithat", "color": "#E70022", "uniqsnd": true },
+    { "name": "5_drum", "color": "#E70022", "uniqsnd": true },
+    { "name": "6_superdeepbass", "color": "#0961B8", "uniqsnd": true },
+    { "name": "7_intro", "color": "#0961B8", "uniqsnd": true },
+    { "name": "8_cymbal", "color": "#0961B8", "uniqsnd": false },
+    { "name": "9_transision", "color": "#0961B8", "uniqsnd": false },
+    { "name": "10_crashintro", "color": "#0961B8", "uniqsnd": false },
+    { "name": "11_pluck", "color": "#444269", "uniqsnd": true },
+    { "name": "12_bell", "color": "#444269", "uniqsnd": true },
+    { "name": "13_leadnormal", "color": "#444269", "uniqsnd": false },
+    { "name": "14_droplead", "color": "#444269", "uniqsnd": true },
+    { "name": "15_basstungtung", "color": "#444269", "uniqsnd": true },
+    { "name": "16_alone", "color": "#97ACBD", "uniqsnd": false },
+    { "name": "17_arcade", "color": "#97ACBD", "uniqsnd": false },
+    { "name": "18_vokalchop", "color": "#97ACBD", "uniqsnd": false },
+    { "name": "19_vokalchopdrop", "color": "#97ACBD", "uniqsnd": true },
+    { "name": "20_enola", "color": "#97ACBD", "uniqsnd": false }
+  ],
+  "bonusarray": [
+    {
+      "title": "Alone",
+      "code": [3, 6, 8, 11, 18],
+      "name": "alone",
+      "sound": "bonus-alone",
+      "predrop": "aspire-blank",
+      "loop": 6
+    }
+  ],
+  "credit": {
+    "crewname": "MrF",
+    "thanks": ""
+  }
+}
